@@ -1,0 +1,5 @@
+Contact: mailto:security@nexa.one
+Expires: 2027-04-18T00:00:00Z
+Preferred-Languages: de, en
+Canonical: https://nexavoize.com/.well-known/security.txt
+Policy: https://nexavoize.com/legal/dsgvo
