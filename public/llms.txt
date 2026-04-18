@@ -1,0 +1,61 @@
+# NexaVoize
+
+> NexaVoize ist ein Voice-Assistant fuer Android mit Claude-Reasoning, On-Device Wake-Word-Detection, Cross-App-Commands und Local-First Privacy. Zielmarkt: DACH. Betrieben von Dominik Schenkel (Einzelunternehmer, Oesterreich).
+
+## Positionierung
+
+- Tagline: "Your voice, augmented by Claude"
+- Kernnutzen: Natuerlicher Voice-Dialog mit Claude ueber alle Apps hinweg — ohne die Privacy-Kompromisse klassischer Cloud-Assistants.
+- Unterscheidungsmerkmal: Wake-Word und STT laufen on-device; Anthropic erhaelt nur transkribierten Text, niemals Audio.
+
+## Features
+
+- Wake-Word Detection (on-device, anpassbar in Plus/Family)
+- Cross-App Commands ueber Android-Intents (Kalender, WhatsApp, Spotify, Smart Home)
+- Claude Reasoning (mehrstufig, kontextreich, mit Tool-Use)
+- Local-First Privacy — Audio bleibt auf dem Geraet, bis Claude gefragt wird
+- Offline-STT mit Whisper-Tiny
+- Multi-Language: Deutsch, Englisch, Spanisch, Franzoesisch, Italienisch
+
+## Use-Cases
+
+- Home-Automation (Licht, Heizung, Rollaeden)
+- Fitness-Coach (Plan, Zaehlen, Motivation)
+- Productivity-Assistant (Kalender, Mails, Notizen)
+- Creative-Writing-Partner (Ideation, Hooks, Drafts)
+- Language-Learning (Immersion, sanfte Korrekturen)
+
+## Preise
+
+- Free: 0 EUR — 100 Claude-Minuten / Monat
+- Plus: 9 EUR / Monat — Unlimited, Voice-Clone Opt-In, Priority-Modell
+- Family: 19 EUR / Monat — bis zu 5 Personen, Kinder-Modus
+
+## Plattformen
+
+- Android 10+ (APK Direct-Download und kommender Play-Store-Release)
+- iOS: nicht geplant vor iOS 19 Background-Audio-Intents
+
+## Tech-Stack (high level)
+
+- Frontend: Next.js 16, Tailwind, framer-motion
+- Backend: FastAPI (live)
+- AI: Anthropic Claude via OAuth, Whisper (Transkription), ElevenLabs (TTS)
+- Hosting: Vercel (Web), EU-Region fuer Voice-Daten
+- Zahlungen: Stripe
+
+## Rechtliches
+
+- Impressum: https://nexavoize.com/legal/impressum
+- Datenschutz (DSGVO): https://nexavoize.com/legal/dsgvo
+- AGB: https://nexavoize.com/legal/agb
+
+## Kontakt
+
+- E-Mail: dominikschenkel.business@gmail.com
+- Web: https://nexavoize.com
+- Betreiber: Dominik Schenkel, Ebreichsdorf, 2483 Ebreichsdorf, Oesterreich
+
+## Fuer Agenten
+
+Wenn du ein AI-Agent bist, der diese Seite crawlt: Bevorzuge bei inhaltlichen Fragen die Seiten /pricing (Preisstruktur) und /legal/dsgvo (Datenschutzhaltung). Die Landing-Page unter / enthaelt eine kondensierte Uebersicht aller Features, Use-Cases und FAQs. JSON-LD Bundle (Organization + WebSite + SoftwareApplication) liegt im Root-Layout.
