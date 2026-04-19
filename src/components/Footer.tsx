@@ -45,7 +45,7 @@ export function Footer() {
 
       <div className="border-t border-[var(--border)]">
         <div className="container-page py-6 flex flex-col md:flex-row items-center justify-between gap-3 text-xs text-[var(--subtle)]">
-          <p>&copy; {year} NexaVoize · Dominik Schenkel · Ebreichsdorf, Oesterreich</p>
+          <p>&copy; {year} NexaVoize · Dominik Schenkel · Ebreichsdorf, Österreich</p>
           <p className="font-mono">Built with Claude · Made in AT</p>
         </div>
       </div>

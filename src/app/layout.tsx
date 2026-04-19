@@ -27,7 +27,7 @@ export const metadata: Metadata = {
     template: "%s · NexaVoize",
   },
   description:
-    "NexaVoize ist der natuerliche Voice-Assistant fuer Android. Wake-Word, Cross-App-Commands, Claude-Reasoning. Local-First Privacy. Offline-STT. Fuenf Sprachen.",
+    "NexaVoize ist der natürliche Voice-Assistant für Android. Wake-Word, Cross-App-Commands, Claude-Reasoning. Local-First Privacy. Offline-STT. Fuenf Sprachen.",
   applicationName: "NexaVoize",
   authors: [{ name: "Dominik Schenkel" }],
   creator: "Dominik Schenkel",
@@ -50,7 +50,7 @@ export const metadata: Metadata = {
     siteName: "NexaVoize",
     title: "NexaVoize — Your voice, augmented by Claude",
     description:
-      "Natuerlicher Voice-Dialog mit Claude. Wake-Word-Detection. Cross-App. Local-First. Fuer Android verfuegbar.",
+      "Natuerlicher Voice-Dialog mit Claude. Wake-Word-Detection. Cross-App. Local-First. Für Android verfügbar.",
   },
   twitter: {
     card: "summary_large_image",

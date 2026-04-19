@@ -13,7 +13,7 @@ const USE_CASES: UseCase[] = [
   {
     title: "Home-Automation",
     tagline: "Licht, Heizung, Rollaeden",
-    quote: "\u201eHey Nexa, Wohnzimmer auf Kinomodus und mach mir Popcorn-Timer fuer 3 Minuten.\u201c",
+    quote: "\u201eHey Nexa, Wohnzimmer auf Kinomodus und mach mir Popcorn-Timer für 3 Minuten.\u201c",
     accent: "#7c5cff",
   },
   {
@@ -30,8 +30,8 @@ const USE_CASES: UseCase[] = [
   },
   {
     title: "Creative Writing",
-    tagline: "Partner fuer Ideen",
-    quote: "\u201eBrainstorm mir drei Haken fuer einen YouTube-Short ueber ECU-Tuning.\u201c",
+    tagline: "Partner für Ideen",
+    quote: "\u201eBrainstorm mir drei Haken für einen YouTube-Short über ECU-Tuning.\u201c",
     accent: "#7c5cff",
   },
   {

@@ -4,7 +4,7 @@ import { FAQ } from "@/components/FAQ";
 
 export const metadata: Metadata = {
   title: "Preise",
-  description: "Free, Plus fuer 9 EUR pro Monat, Family fuer 19 EUR pro Monat. Kein Abo-Zwang, jederzeit kuendbar.",
+  description: "Free, Plus für 9 EUR pro Monat, Family für 19 EUR pro Monat. Kein Abo-Zwang, jederzeit kuendbar.",
 };
 
 export default function PricingPage() {

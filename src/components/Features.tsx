@@ -37,7 +37,7 @@ const FEATURES: Feature[] = [
   {
     title: "Claude Reasoning",
     description:
-      "Volle Claude-Intelligenz im Gespraech. Mehrstufige Fragen, Kontext ueber Sessions hinweg, Tool-Use wenn noetig.",
+      "Volle Claude-Intelligenz im Gespraech. Mehrstufige Fragen, Kontext über Sessions hinweg, Tool-Use wenn noetig.",
     icon: (
       <svg width="28" height="28" viewBox="0 0 24 24" fill="none" aria-hidden="true">
         <path d="M12 2L3 7v6c0 5 4 9 9 9s9-4 9-9V7l-9-5z" stroke="currentColor" strokeWidth="1.5" />
@@ -95,7 +95,7 @@ export function Features() {
             className="mt-3 font-semibold tracking-tight"
             style={{ fontSize: "clamp(32px, 4.5vw, 56px)", lineHeight: 1.08, letterSpacing: "-0.02em" }}
           >
-            Sechs Fundamente fuer einen Voice-Assistant,{" "}
+            Sechs Fundamente für einen Voice-Assistant,{" "}
             <span className="text-gradient-brand">den du ernst nehmen kannst.</span>
           </h2>
         </div>

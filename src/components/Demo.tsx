@@ -13,7 +13,7 @@ const CONVERSATIONS: Turn[][] = [
     { role: "user", text: "Hey Nexa, wie wird das Wetter heute in Wien?" },
     {
       role: "assistant",
-      text: "Leicht bewoelkt, 18 Grad, am Nachmittag sonnig. Ich hab dir die Stunden mit ueber 20 Grad markiert.",
+      text: "Leicht bewoelkt, 18 Grad, am Nachmittag sonnig. Ich hab dir die Stunden mit über 20 Grad markiert.",
     },
   ],
   [
@@ -27,7 +27,7 @@ const CONVERSATIONS: Turn[][] = [
     { role: "user", text: "Was hab ich heute Nachmittag vor?" },
     {
       role: "assistant",
-      text: "14:00 Call mit Max, 16:30 Physio, dann frei. Soll ich dir fuer den Call die Notizen von letzter Woche oeffnen?",
+      text: "14:00 Call mit Max, 16:30 Physio, dann frei. Soll ich dir für den Call die Notizen von letzter Woche oeffnen?",
     },
   ],
 ];

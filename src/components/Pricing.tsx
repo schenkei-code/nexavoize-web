@@ -17,7 +17,7 @@ const PLANS: Plan[] = [
   {
     name: "Free",
     price: "0 EUR",
-    period: "fuer immer",
+    period: "für immer",
     tagline: "Perfekt zum Reinschnuppern",
     features: [
       "100 Claude-Minuten / Monat",
@@ -32,7 +32,7 @@ const PLANS: Plan[] = [
     name: "Plus",
     price: "9 EUR",
     period: "pro Monat",
-    tagline: "Fuer Power-Nutzer",
+    tagline: "Für Power-Nutzer",
     features: [
       "Unlimited Claude-Minuten",
       "Alle Cross-App-Intents",
@@ -48,7 +48,7 @@ const PLANS: Plan[] = [
     name: "Family",
     price: "19 EUR",
     period: "pro Monat",
-    tagline: "Fuer bis zu 5 Personen",
+    tagline: "Für bis zu 5 Personen",
     features: [
       "Alles aus Plus",
       "5 separate Profile",

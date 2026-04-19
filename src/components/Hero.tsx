@@ -39,22 +39,22 @@ export function Hero() {
           </h1>
 
           <p className="mt-6 text-lg md:text-xl text-[var(--muted)] max-w-2xl leading-relaxed">
-            NexaVoize hoert immer auf dein Wake-Word, versteht natuerliche Sprache und
-            reagiert ueber alle Apps hinweg. On-Device Privacy trifft Claude-Reasoning.
+            NexaVoize hört immer auf dein Wake-Word, versteht natürliche Sprache und
+            reagiert über alle Apps hinweg. On-Device Privacy trifft Claude-Reasoning.
           </p>
 
           <div className="mt-10 flex flex-col sm:flex-row items-center gap-3">
             <Link
               id="download"
-              href="/downloads/nexavoize-latest.apk"
+              href="/beta"
               className="inline-flex items-center gap-2 rounded-full px-7 py-3.5 text-base font-semibold text-white transition-transform hover:scale-[1.03] glow-ring"
               style={{ background: "var(--brand-gradient)", color: "#fff" }}
-              aria-label="NexaVoize APK fuer Android herunterladen"
+              aria-label="Für die NexaVoize Android-Beta eintragen"
             >
               <svg width="18" height="18" viewBox="0 0 24 24" fill="none" aria-hidden="true">
                 <path d="M12 3v12m0 0l-5-5m5 5l5-5M4 21h16" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" />
               </svg>
-              APK fuer Android laden
+              Android-Beta beitreten
             </Link>
             <span
               className="inline-flex items-center gap-2 rounded-full px-5 py-3 text-sm font-medium glass text-[var(--muted)]"

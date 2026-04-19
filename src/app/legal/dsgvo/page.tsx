@@ -4,7 +4,7 @@ import { LegalLayout } from "@/components/LegalLayout";
 export const metadata: Metadata = {
   title: "Datenschutz",
   description:
-    "Datenschutzerklaerung fuer NexaVoize nach DSGVO (EU) 2016/679, oesterreichisches DSG und TKG 2021.",
+    "Datenschutzerklaerung für NexaVoize nach DSGVO (EU) 2016/679, oesterreichisches DSG und TKG 2021.",
 };
 
 export default function DsgvoPage() {
@@ -13,7 +13,7 @@ export default function DsgvoPage() {
       <p>
         Diese Datenschutzerklaerung informiert Sie gemaess Artikel 13 und 14 der
         Datenschutz-Grundverordnung (DSGVO) sowie § 1 und § 4 des oesterreichischen
-        Datenschutzgesetzes (DSG) ueber die Verarbeitung personenbezogener Daten im Rahmen der
+        Datenschutzgesetzes (DSG) über die Verarbeitung personenbezogener Daten im Rahmen der
         Nutzung von <strong>NexaVoize</strong> (nexavoize.com).
       </p>
 
@@ -25,7 +25,7 @@ export default function DsgvoPage() {
         <br />
         Einzelunternehmer
         <br />
-        Ebreichsdorf, 2483 Ebreichsdorf, Oesterreich
+        Ebreichsdorf, 2483 Ebreichsdorf, Österreich
         <br />
         E-Mail: dominikschenkel.business@gmail.com
       </p>
@@ -33,7 +33,7 @@ export default function DsgvoPage() {
       <h2>2. Kontakt in Datenschutzangelegenheiten</h2>
       <p>
         Als Einzelunternehmer besteht keine gesetzliche Pflicht zur Bestellung eines
-        Datenschutzbeauftragten. Ansprechpartner fuer Datenschutzangelegenheiten ist Dominik
+        Datenschutzbeauftragten. Ansprechpartner für Datenschutzangelegenheiten ist Dominik
         Schenkel, erreichbar unter dominikschenkel.business@gmail.com.
       </p>
 
@@ -45,14 +45,14 @@ export default function DsgvoPage() {
         <li>Konversationshistorie mit dem AI-Assistenten</li>
         <li>Geraete- und App-Metadaten (OS-Version, App-Version, Device-ID)</li>
         <li>Optionale Voice-Clone-Samples (nur bei explizitem Opt-In, Art. 9 DSGVO biometrische Daten)</li>
-        <li>Zahlungsdaten (ueber Stripe/App-Stores)</li>
+        <li>Zahlungsdaten (über Stripe/App-Stores)</li>
       </ul>
 
       <h3>Besondere Kategorien (Art. 9 DSGVO)</h3>
       <p>
         NexaVoize verarbeitet in bestimmten optionalen Funktionen biometrische Daten
         (Stimm-/Gesichtsmerkmale). Diese Verarbeitung erfolgt ausschliesslich auf Grundlage Ihrer
-        ausdruecklichen Einwilligung (Art. 9 Abs. 2 lit. a DSGVO). Sie koennen die Einwilligung
+        ausdruecklichen Einwilligung (Art. 9 Abs. 2 lit. a DSGVO). Sie können die Einwilligung
         jederzeit widerrufen; die bis zum Widerruf erfolgte Verarbeitung bleibt rechtmaessig.
       </p>
 
@@ -132,7 +132,7 @@ export default function DsgvoPage() {
       <h2>10. Automatisierte Entscheidungen / Profiling</h2>
       <p>
         NexaVoize setzt KI-gestuetzte Analyse- und Generierungsverfahren ein. Eine ausschliesslich
-        automatisierte Entscheidung im Sinne von Art. 22 DSGVO mit rechtlicher Wirkung fuer Sie
+        automatisierte Entscheidung im Sinne von Art. 22 DSGVO mit rechtlicher Wirkung für Sie
         findet NICHT statt.
       </p>
 

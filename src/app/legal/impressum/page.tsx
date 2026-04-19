@@ -4,7 +4,7 @@ import { LegalLayout } from "@/components/LegalLayout";
 export const metadata: Metadata = {
   title: "Impressum",
   description:
-    "Impressum und Offenlegung gemaess § 5 ECG, § 14 UGB, § 24/§ 25 MedienG fuer NexaVoize (nexavoize.com).",
+    "Impressum und Offenlegung gemaess § 5 ECG, § 14 UGB, § 24/§ 25 MedienG für NexaVoize (nexavoize.com).",
   robots: { index: true, follow: false },
 };
 
@@ -13,7 +13,7 @@ export default function ImpressumPage() {
     <LegalLayout title="Impressum" lastUpdated="2026-04-18" version="1.0.0">
       <p>
         Angaben gemaess § 5 E-Commerce-Gesetz (ECG), § 14 Unternehmensgesetzbuch (UGB) und § 24
-        und § 25 Mediengesetz (MedienG) fuer NexaVoize (nexavoize.com).
+        und § 25 Mediengesetz (MedienG) für NexaVoize (nexavoize.com).
       </p>
 
       <h2>Medieninhaber, Herausgeber und Diensteanbieter</h2>
@@ -26,7 +26,7 @@ export default function ImpressumPage() {
         <br />
         2483 Ebreichsdorf
         <br />
-        Oesterreich
+        Österreich
       </p>
 
       <h2>Kontakt</h2>
@@ -66,7 +66,7 @@ export default function ImpressumPage() {
       <h2>Blattlinie (§ 25 MedienG)</h2>
       <p>
         NexaVoize ist eine Online-Plattform unter dem Betrieb von Dominik Schenkel. Ziel ist die
-        Information ueber sowie die Bereitstellung der Dienstleistung „AI Voice Assistant mit
+        Information über sowie die Bereitstellung der Dienstleistung „AI Voice Assistant mit
         Claude". Die Inhalte geben die Meinung und den Leistungsumfang des Medieninhabers
         wieder.
       </p>
@@ -75,15 +75,15 @@ export default function ImpressumPage() {
       <p>
         Die Europaeische Kommission stellt eine Plattform zur Online-Streitbeilegung (OS) bereit:{" "}
         <a href="https://ec.europa.eu/consumers/odr">https://ec.europa.eu/consumers/odr</a>. Unsere
-        E-Mail-Adresse fuer Verbraucherbeschwerden lautet dominikschenkel.business@gmail.com. Wir
+        E-Mail-Adresse für Verbraucherbeschwerden lautet dominikschenkel.business@gmail.com. Wir
         sind weder verpflichtet noch bereit, an einem Streitbeilegungsverfahren vor einer
         Verbraucherschlichtungsstelle teilzunehmen.
       </p>
 
       <h2>Haftungsausschluss</h2>
       <p>
-        Trotz sorgfaeltiger inhaltlicher Kontrolle uebernehmen wir keine Haftung fuer die Inhalte
-        externer Links. Fuer den Inhalt der verlinkten Seiten sind ausschliesslich deren Betreiber
+        Trotz sorgfaeltiger inhaltlicher Kontrolle uebernehmen wir keine Haftung für die Inhalte
+        externer Links. Für den Inhalt der verlinkten Seiten sind ausschliesslich deren Betreiber
         verantwortlich.
       </p>
 

@@ -10,16 +10,16 @@ type QA = {
 
 const FAQS: QA[] = [
   {
-    q: "Hoert NexaVoize immer mit?",
-    a: "Nein. Das Wake-Word laeuft komplett on-device ueber ein kleines Neural-Net. Es gibt keine Cloud-Uebertragung, solange du nicht aktiv \u201eHey Nexa\u201c sagst und die App in den Dialog-Modus wechselt. Du kannst das Mikro jederzeit per System-Toggle abschalten.",
+    q: "Hört NexaVoize immer mit?",
+    a: "Nein. Das Wake-Word laeuft komplett on-device über ein kleines Neural-Net. Es gibt keine Cloud-Uebertragung, solange du nicht aktiv \u201eHey Nexa\u201c sagst und die App in den Dialog-Modus wechselt. Du kannst das Mikro jederzeit per System-Toggle abschalten.",
   },
   {
     q: "Funktioniert die App auch offline?",
-    a: "Teilweise. Wake-Word-Detection und Speech-to-Text laufen offline. Sobald aber Claude als Reasoning-Engine gefragt ist, wird die transkribierte Anfrage an Anthropic geschickt — das braucht Internet. Fuer komplett lokale Antworten ist in Plus ein kleiner Llama-Fallback eingebaut.",
+    a: "Teilweise. Wake-Word-Detection und Speech-to-Text laufen offline. Sobald aber Claude als Reasoning-Engine gefragt ist, wird die transkribierte Anfrage an Anthropic geschickt — das braucht Internet. Für komplett lokale Antworten ist in Plus ein kleiner Llama-Fallback eingebaut.",
   },
   {
     q: "Gibt es auch eine iOS-Version?",
-    a: "Noch nicht. iOS erlaubt keine native Wake-Word-Erkennung im Hintergrund ausser ueber Siri-Shortcuts — das wuerde die Core-Experience kaputtmachen. Wir warten auf die iOS 19 Background-Audio-Intents. Bis dahin gibt es eine kompromissbehaftete iOS-Version nicht.",
+    a: "Noch nicht. iOS erlaubt keine native Wake-Word-Erkennung im Hintergrund ausser über Siri-Shortcuts — das wuerde die Core-Experience kaputtmachen. Wir warten auf die iOS 19 Background-Audio-Intents. Bis dahin gibt es eine kompromissbehaftete iOS-Version nicht.",
   },
   {
     q: "Wie funktioniert der Claude-Login?",
