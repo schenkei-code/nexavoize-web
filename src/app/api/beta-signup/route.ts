@@ -3,7 +3,7 @@ import { NextResponse } from "next/server";
 export const runtime = "nodejs";
 export const dynamic = "force-dynamic";
 
-const RECIPIENT = process.env.BETA_RECIPIENT ?? "hello@nexavoize.de";
+const RECIPIENT = process.env.BETA_RECIPIENT ?? "nexacore@agentmail.to";
 const FROM = process.env.BETA_FROM ?? "NexaVoize Beta <noreply@nexavoize.de>";
 
 type Payload = {
